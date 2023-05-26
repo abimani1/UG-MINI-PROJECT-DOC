@@ -1,4 +1,3 @@
-OutPut
 <img width="541" alt="output 1" src="https://github.com/abimani1/UG-MINI-PROJECT-DOC/assets/122529930/a756fc03-ecb6-4dc7-ad26-da3aac60624a">
 <img width="960" alt="loan" src="https://github.com/abimani1/UG-MINI-PROJECT-DOC/assets/122529930/aee8fdbf-ae0d-40d7-b5fe-ff4a2c1d00f0">
 <img width="958" alt="new_customer" src="https://github.com/abimani1/UG-MINI-PROJECT-DOC/assets/122529930/42d94a09-315d-4a48-827c-d945e46a33db">
